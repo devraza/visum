@@ -1,0 +1,12 @@
+[package]
+name = "visum"
+version = "0.1.0"
+edition = "2021"
+authors = ["Muhammad Nauman Raza <thedevraza@proton.me>"]
+readme = "README.md"
+repository = "https://github.com/devraza/visum/"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
